@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Words App</string>
+    <string name="Partⅰ">Part Ⅰ:生活常识与社交篇</string>
+    <string name="Partⅱ">Part Ⅱ:旅游篇</string>
+    <string name="Partⅲ">Part Ⅲ:职场篇</string>
+    <string name="Partⅳ">Part Ⅳ:学术篇</string>
+    <string name="Partⅴ">Part Ⅴ:自然人文篇</string>
+    <string name="Partⅵ">Part Ⅵ:生活类</string>
+    <string name="Partⅶ">Part Ⅶ:生活类</string>
+    <string name="Partⅷ">Part Ⅷ:生活类</string>
+    <string name="is11">居家生活</string>
+    <string name="is12">个人情况</string>
+    <string name="is13">个人健康</string>
+    <string name="is14">日常活动</string>
+    <string name="is15">就医</string>
+    <string name="is16">文艺爱好</string>
+    <string name="is17">休闲爱好</string>
+    <string name="is18">户外活动</string>
+    <string name="is19">体育活动</string>
+    <string name="is110">情绪感受</string>
+    <string name="is111">人际关系</string>
+    <string name="is112">会话技巧</string>
+    <string name="is113">交际场合</string>
+    <string name="is114">度量衡</string>
+    <string name="is51">Chapter 1:地球</string>
+    <string name="is52">Chapter 2:生物</string>
+    <string name="is53">Chapter 3:自然灾害</string>
+    <string name="is54">Chapter 4:自然物质</string>
+    <string name="is55">Chapter 5:节日</string>
+
+
+
+
+
+
+
+</resources>
